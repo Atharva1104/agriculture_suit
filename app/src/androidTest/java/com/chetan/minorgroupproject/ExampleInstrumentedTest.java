@@ -1,4 +1,4 @@
-package com.chetan.minorgroupproject;
+package com.agriculture.suit;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.chetan.minorgroupproject", appContext.getPackageName());
+        assertEquals("com.agriculture.suit", appContext.getPackageName());
     }
 }

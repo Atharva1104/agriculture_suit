@@ -1,4 +1,4 @@
-package com.chetan.minorgroupproject;
+package com.agriculture.suit;
 
 import org.junit.Test;
 

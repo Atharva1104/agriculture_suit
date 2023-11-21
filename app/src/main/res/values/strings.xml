@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cropify</string>
+    <string name="app_name">Agriculture Suit</string>
     <string name="classified">Classified as</string>
     <string name="output">Cotton</string>
     <string name="take_pic">Take Picture</string>

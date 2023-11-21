@@ -1,4 +1,4 @@
-package com.chetan.minorgroupproject;
+package com.agriculture.suit;
 
 import android.Manifest;
 import android.content.Context;
@@ -29,6 +29,7 @@ import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
 
+import com.agriculture.suit.R;
 import com.ramotion.paperonboarding.PaperOnboardingFragment;
 import com.ramotion.paperonboarding.PaperOnboardingPage;
 

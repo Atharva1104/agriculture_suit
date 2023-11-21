@@ -1,9 +1,11 @@
-package com.chetan.minorgroupproject;
+package com.agriculture.suit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+
+import com.agriculture.suit.R;
 
 public class SplashActivity extends AppCompatActivity {
 

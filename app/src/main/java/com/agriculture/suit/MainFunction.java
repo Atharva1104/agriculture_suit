@@ -1,4 +1,4 @@
-package com.chetan.minorgroupproject;
+package com.agriculture.suit;
 
 import android.Manifest;
 import android.app.Activity;
@@ -24,7 +24,9 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.chetan.minorgroupproject.ml.Model;
+
+import com.agriculture.suit.R;
+import com.agriculture.suit.ml.Model;
 
 import org.tensorflow.lite.DataType;
 import org.tensorflow.lite.support.tensorbuffer.TensorBuffer;
