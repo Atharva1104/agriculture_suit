@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cropify</string>
+    <string name="classified">वर्गीकृत</string>
+    <string name="output">कापूस</string>
+    <string name="take_pic">छायाचित्र काढा</string>
+    <string name="ChangeLang">भाषा बदला</string>
+    <string name="wheat">गहू</string>
+</resources>
